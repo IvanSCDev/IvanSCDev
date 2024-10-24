@@ -14,7 +14,8 @@ I started this profile to organize my coding exercises, smaller practice project
 - ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) Building my personal website to pair with this profile. 
 
 - ![C](https://img.shields.io/badge/C-00599c?style=flat&logoColor=FFFFFF) I had a fling with C in my teenage years, but we never got beyond first base. Hopefully, we can pick up where we left off. 
-- 🔢: **Trigonometry**, **Precalculus**, and **Statistics**: It's been a while, so I need some serious brushing up before I can even contemplate taking a look at Data Science.
+- 🔢: **Trigonometry**, **Precalculus**, and **Statistics**: It's been a while, so I need some serious brushing up before I can even contemplate Data Science.
+- 📐 **Scalability**: I'm organizing my profile so I can revisit older exercises and projects to refactor the code using newly acquired knowledge and implement new functionalities when applicable.
 
 ## 💡 Let's Collaborate!
 
@@ -37,7 +38,8 @@ Criei este perfil para organizar meus exercícios de programação, pequenos pro
 
 - ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) Construindo meu site pessoal para complementar este perfil.
 - ![C](https://img.shields.io/badge/C-00599c?style=flat&logoColor=FFFFFF) Tive um breve romance com C na adolescência e tem sido um prazer reacender essa chama.
-- 🔢: **Trigonometria**, **Pré-Cálculo**, e **Estatística**: Faz um bom tempo que não estudo estes tópicos com profundidade, preciso de uma boa revisão antes de considerar sequer uma passada de olhos a sério em Ciência de Dados.
+- 🔢: **Trigonometria**, **Pré-Cálculo**, e **Estatística**: Faz um bom tempo que não estudo estes tópicos com profundidade, preciso de uma boa revisão antes de iniciar minha imersão em Ciência de Dados.
+- 📐 **Escalabilidade**: Estou organizando meu perfil para que possa revisitar exercícios e projetos antigos, refatorando códigos a partir de conhecimento recém-adquirido e implementando novas funcionalidades sempre que possível.
 
 ## 💡 Vamos Colaborar!
 
